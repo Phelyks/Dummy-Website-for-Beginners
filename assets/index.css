@@ -262,4 +262,9 @@ ul li a:hover {
     color: #fff;
     font-size: 30px;
     padding: 5px 0px 0px 15px;
+    transition: 0.4s ease;
+}
+
+.icons ion-icon:hover{
+    color: #ff7200;
 }
