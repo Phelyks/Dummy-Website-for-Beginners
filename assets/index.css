@@ -249,4 +249,12 @@ ul li a:hover {
     text-align: center;
 }
 
-.form .liw
+.form .liw {
+    padding: 15px 0px 10px 0px;
+}
+
+.icons a{
+    text-decoration: none;
+    color: #fff;
+    
+}
